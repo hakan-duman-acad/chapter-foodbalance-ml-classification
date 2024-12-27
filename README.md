@@ -1,5 +1,12 @@
 # Machine Learning-Based Classification Of Countries Based On Food Supply Quantities In The Caucasus And Surrounding Regions
 
+Please cite this study if you use it in your research as follows:
+
+Duman, Hakan. 2024. “Machine Learning-Based Classification Of Countries
+Based On Food Supply Quantities In The Caucasus And Surrounding
+Regions.” In Kafkasya Araştırmaları - II, edited by Oğuz Şimşek, Çağrı
+Akgün, and Çetin İzgi, 189–208. Ankara: Sonçağ Akademi.
+
 ## Abstract
 
 Food security is vital for human survival, ensuring consistent access to
@@ -18,7 +25,7 @@ conflict. Decision Tree (DT) emerged as the most suitable machine
 learning model, balancing high performance, minimal computational time,
 and interpretability. These findings contribute valuable insights into
 food security and machine learning model efficiency, providing a
-foundation for future research and practical applications.\*\*
+foundation for future research and practical applications.
 
 Keywords:\*\* Food Security, Machine Learning Models, Consumption
 Patterns, Caucasus Region, Decision Tree Analysis
@@ -71,8 +78,8 @@ are cited as follows:
     ([2005](#ref-rnews-2005)), Bivand, Pebesma, & Gomez-Rubio
     ([2013](#ref-asdar-2013)), Pebesma & contibutors
     ([2024](#ref-sf-2024-github))
--   Training Models: ([**rsample-2023?**](#ref-rsample-2023)), Ushey et
-    al. ([2023](#ref-ushey_reticulate_2023)),
+-   Training Models: Frick et al. ([2023](#ref-frick_rsample_2023)),
+    Ushey et al. ([2023](#ref-ushey_reticulate_2023)),
 -   Statistical Tests: Kassambara ([2023](#ref-rstatix_2023)), Fox &
     Weisberg ([2019](#ref-fox_r_2019)), Bogetoft & Otto
     ([2024](#ref-benchmarks_dea_sfa_2024))
