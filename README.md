@@ -7,6 +7,8 @@ Based On Food Supply Quantities In The Caucasus And Surrounding
 Regions.” In Kafkasya Araştırmaları - II, edited by Oğuz Şimşek, Çağrı
 Akgün, and Çetin İzgi, 189–208. Ankara: Sonçağ Akademi.
 
+[Full text of the study](https://www.researchgate.net/publication/387441081_MACHINE_LEARNING-BASED_CLASSIFICATION_OF0ACOUNTRIES_BASED_ON_FOOD_SUPPLY_QUANTITIES_IN0ATHE_CAUCASUS_AND_SURROUNDING_REGIONS)
+
 ## Abstract
 
 Food security is vital for human survival, ensuring consistent access to
